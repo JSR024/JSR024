@@ -1,7 +1,6 @@
 <div align='center'>
 
-[<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR4YnZmdnh1cTFlank2cDJxMjczbTcydGRuYm41NXVrM3B6YTFtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA2N3JjdWQxbTVoemNndjY3cTIwcmNzaXpuZDN2cDIzaG91MWYzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif
 # 💫 About Me:
 👨‍💻 I'm Joy, a full-time front-end  developer .<br>🌱 I’m currently learning Next.js .<br>💬 Ask me about  anything related to Front-End technologies .<br>
 
