@@ -1,4 +1,5 @@
-### Hi there 👋
+<div>
+  ### Hi there 👋
 
 # 💫 About Me:
 👨‍💻 I'm Joy, a full-time front-end  developer .<br>🌱 I’m currently learning Next.js .<br>💬 Ask me about  anything related to Front-End technologies .<br>
@@ -14,4 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JSR024&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
