@@ -1,5 +1,5 @@
-<div>
-  ### Hi there 👋
+<div align='center'>
+
 
 # 💫 About Me:
 👨‍💻 I'm Joy, a full-time front-end  developer .<br>🌱 I’m currently learning Next.js .<br>💬 Ask me about  anything related to Front-End technologies .<br>
