@@ -4,7 +4,7 @@
 </div>
 <div>
   💫 About Me:
-<h1>👨‍💻 I'm Joy, a full-time front-end  developer .</h1><br><h2>🌱 I’m currently learning Next.js .</h2><br><h2>💬 Ask me about  anything related to Front-End technologies .</h2>
+<h1>👨‍💻 I'm Joy, a full-time front-end  developer .</h1><h2>🌱 I’m currently learning Next.js .</h2><h2>💬 Ask me about  anything related to Front-End technologies .</h2>
 </div>
   
 <h2>💻 Tech Stack:</h2>
