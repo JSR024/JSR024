@@ -1,5 +1,6 @@
 <div align='center'>
 
+<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
 
 # 💫 About Me:
 👨‍💻 I'm Joy, a full-time front-end  developer .<br>🌱 I’m currently learning Next.js .<br>💬 Ask me about  anything related to Front-End technologies .<br>
